@@ -1,0 +1,25 @@
+# Environment & Secrets
+.env
+bot/.env
+APIkey.md
+kaggle.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Test scripts
+bot/test_gemini.py
